@@ -11,6 +11,6 @@
     "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
     "react-native-linkedin": "https://github.com/xcarpentier/react-native-linkedin.git",
-    "react-native-webview": "^8.0.5",
+    "react-native-webview": "^8.0.5"
   }
 }
