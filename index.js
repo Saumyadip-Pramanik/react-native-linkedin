@@ -5,7 +5,6 @@
 
 import React from 'react'
 import {
-  WebView,
   TouchableOpacity,
   View,
   ViewPropTypes,
@@ -16,6 +15,7 @@ import {
   // $DisableFlow
 } from 'react-native'
 import PropTypes from 'prop-types'
+import { WebView } from 'react-native-webview';
 import { pipe, evolve, propSatisfies, applySpec, propOr } from 'ramda'
 import { v4 } from 'uuid'
 import querystring from 'query-string'
